@@ -25,3 +25,6 @@ git switch / checkout
 
 (5)
 git merge {현재 위치한 브랜치에 합치려고 하는 "브랜치 이름"}
+ 
+(6)
+pull / push
