@@ -1,6 +1,13 @@
 < git 학습 >
+(1)
 1. 작업을 할 디렉토리 지정 - git init
 2. 해당 경로에서 파일 생성 - ik.txt
 3. 파일에 내용 작성 및 저장
 4. git add {파일명}
 5. git commit -m "{작업 내용 등 메세지 작성}"
+
+(2)
+1. 깃허브 계정 생성 및 레포지토리 생성
+2. git remote add origin git@github.com:adventurer-ik/git-test.git
+3. git branch -M main
+4. git push -u origin main
